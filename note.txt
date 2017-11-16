@@ -1,0 +1,28 @@
+//install npm
+npm install
+
+//install react-native element
+npm install --save react-native-elements
+
+
+// install material icons 
+ npm i react-native-vector-icons --save && react-native link react-native-vector-icons
+
+// install react-navigation
+npm install --save react-navigation
+
+//create .eslintrc
+
+//install eslint
+
+//install rallycoding
+npm install --save eslint-config-rallycoding
+
+
+//start emulator
+./emulator -avd Nexus_5X_API_25
+
+//data persistance
+npm install --save redux-persist
+
+
